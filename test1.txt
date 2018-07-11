@@ -1,2 +1,3 @@
 listen to me.
 Creating a new branch is quick and simple.
+add merge.
